@@ -28,7 +28,9 @@ Most launchpads make it easy to start a token and hard to trust what happens nex
 
 - 📄 **[Whitepaper (v1.4)](https://github.com/YeetLaunch/docs/blob/main/docs/YeetLaunch_Whitepaper_v1.4.pdf)** — the full protocol design
 - 🔀 **[Routing & Integration Guide](https://github.com/YeetLaunch/docs/blob/main/docs/YEETAMM_ROUTING_INTEGRATION.md)** — for aggregators integrating YeetAMM pools
-- - 🌐 **[yeetlaunch.io](https://yeetlaunch.io)**
+- 🧰 **[YeetAMM TypeScript SDK](https://github.com/YeetLaunch/yeet-amm-sdk)** — PDA derivation, swap builders, account/error decoding, REST client
+- 🛠️ **[Developer portal](https://yeetlaunch.io/dev)** — program IDs, official addresses, live JSON API, and the DEX integration spec
+- 🌐 **[yeetlaunch.io](https://yeetlaunch.io)**
 
 <div align="center">
 <sub>The protocol and platform source is proprietary. Public documentation lives in <a href="https://github.com/YeetLaunch/docs">YeetLaunch/docs</a>.</sub>
