@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/badge/yeetlaunch.io-0b0f14?style=for-the-badge&logo=firefox&logoColor=39FF14)](https://yeetlaunch.io)
 [![Whitepaper](https://img.shields.io/badge/Whitepaper-v1.4-39FF14?style=for-the-badge)](https://github.com/YeetLaunch/docs/blob/main/docs/YeetLaunch_Whitepaper_v1.4.pdf)
 [![Docs](https://img.shields.io/badge/Docs-repo-14F195?style=for-the-badge)](https://github.com/YeetLaunch/docs)
+[![SDK](https://img.shields.io/badge/TypeScript_SDK-repo-39FF14?style=for-the-badge&logo=typescript&logoColor=39FF14)](https://github.com/YeetLaunch/yeet-amm-sdk)
 
 </div>
 
@@ -27,7 +28,7 @@ Most launchpads make it easy to start a token and hard to trust what happens nex
 
 - 📄 **[Whitepaper (v1.4)](https://github.com/YeetLaunch/docs/blob/main/docs/YeetLaunch_Whitepaper_v1.4.pdf)** — the full protocol design
 - 🔀 **[Routing & Integration Guide](https://github.com/YeetLaunch/docs/blob/main/docs/YEETAMM_ROUTING_INTEGRATION.md)** — for aggregators integrating YeetAMM pools
-- 🌐 **[yeetlaunch.io](https://yeetlaunch.io)**
+- - 🌐 **[yeetlaunch.io](https://yeetlaunch.io)**
 
 <div align="center">
 <sub>The protocol and platform source is proprietary. Public documentation lives in <a href="https://github.com/YeetLaunch/docs">YeetLaunch/docs</a>.</sub>
